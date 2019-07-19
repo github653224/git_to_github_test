@@ -9,3 +9,6 @@ add another dev
 fixed bug on issues branch
 add some content on dev
 Git has a mutable index called stage.  add dev content
+
+
+addddddddddddd  dev 
