@@ -6,3 +6,4 @@ git test02 dev againt add & back to master
 add master file and add git featurel
 
 add another dev
+fixed bug on issues branch
