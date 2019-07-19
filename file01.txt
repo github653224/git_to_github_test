@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git test02 dev branch
 git test02 dev againt add & back to master
+add git featurel
