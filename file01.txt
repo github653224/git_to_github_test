@@ -8,5 +8,7 @@ add master file and add git featurel
 add another dev
 fixed bug on issues branch
 add some content on dev
-
 addd         dd deeee
+
+Git has a mutable index called stage.  add dev content
+
